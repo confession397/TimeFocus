@@ -13,33 +13,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/language-WeApp-blueviolet">
   <img src="https://img.shields.io/badge/build-passing-brightgreen">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=realyao.WXminiprogram-Focus-clock">
-  <img src="https://img.shields.io/github/stars/realyao/WXminiprogram-Focus-clock">
-  <img src="https://img.shields.io/github/forks/realyao/WXminiprogram-Focus-clock">
-  <img src="https://img.shields.io/github/issues/realyao/WXminiprogram-Focus-clock">
- <!-- <img alt="downloads" src="https://img.shields.io/github/downloads/realyao/WXminiprogram-Focus-clock/total"> -->
-  <img src="https://img.shields.io/github/last-commit/realyao/WXminiprogram-Focus-clock">
-  <img src="https://img.shields.io/badge/license-GPL-blue">
+  <img src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 <h4 align=center>
-🚀导航：<a href="https://realyao.github.io/foclock/">主页</a> • <a href="#快速开始">快速开始部署</a> • <a href="#部分原型设计预览">页面原型预览</a> • <a href="https://support.qq.com/product/144958">反馈</a> • <a href="https://github.com/realyao/WXminiprogram-Focus-clock/wiki">Wiki</a>
+🚀快速开始 • 功能特性 • 部署指南
 </h4>
 
 <p align=center>TimeFocus - 专注时间管理，提升工作效率的开源微信小程序</p>
-
- <div align=center><img width='60%' src="https://dcdn.it120.cc/2022/05/11/3f59c7d4-f950-4151-a3f4-f91a5b20cd3a.png"/></div>
-
-
-##
-
-<div align=center><img width='80%' src="https://dcdn.it120.cc/2022/04/01/3691a1c3-9d9e-47c6-96f7-5794bbcc3924.jpg"/></div>
-
-<div align=center>
-  <img width='45%' src="https://s21.ax1x.com/2025/08/10/pVdPCQO.png"/>
-  <img width='45%' src="https://s21.ax1x.com/2025/08/10/pVdPPyD.md.png"/>
-</div>
-
 
 
 ## 🔎Features
@@ -50,9 +31,6 @@
 * 自定义设置（工作时间、休息时间）
 * 任务分享与记录导出
   
-#### 产品功能脑图（V-1.4）
-<div><img width='30%' src="https://dcdn.it120.cc/2022/04/06/bc485bbe-f6ba-43d7-b562-1093bc23f1cf.png"/></div>
-
 
 ## 🔜ToDo
 - [专注自习室](#专注自习室)
@@ -81,15 +59,6 @@
 
 ## 📱部分原型设计预览
 <div align=center>
-<!-- <img width='22%' src="https://s4.ax1x.com/2022/01/17/7UGHNq.jpg"/>
-<img width='22%' src="https://s4.ax1x.com/2022/01/17/7UGb40.jpg"/>
-  <img width='12%' src="https://s21.ax1x.com/2024/11/24/pAhEQgK.png"/>
-  <img width='12%' src="https://s21.ax1x.com/2024/11/24/pAhEljO.png"/>
-  <img width='12%' src="https://s21.ax1x.com/2024/11/24/pAhEn41.png"/>
-  <img width='12%' src="https://s21.ax1x.com/2024/11/24/pAhEM36.png"/>
-  <img width='12%' src="https://s21.ax1x.com/2024/11/24/pAhEK9x.png"/>
-  <img width='12%' src="https://s21.ax1x.com/2024/11/24/pAhEYEd.png"/>
-  <img width='12%' src="https://s21.ax1x.com/2024/11/24/pAhE3uD.png"/>-->
   <img width='20%' src="https://s21.ax1x.com/2025/08/10/pVdPPyD.md.png"/>
   <img width='15%' src="https://dcdn.it120.cc/2022/03/27/66c757b8-acaa-41d1-b409-e3af12ef2e9c.png"/>
   <img width='15%' src="https://dcdn.it120.cc/2022/03/27/952eee7b-6e01-4285-b1c9-217d936b0c81.png"/>
