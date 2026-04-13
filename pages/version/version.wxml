@@ -1,0 +1,24 @@
+<!--pages/version/version.wxml-->
+<view class="page">
+
+     <view class="page__bd">
+          <view class="weui-article">
+               <image class="center_img" src="../../image/222.jpg" mode="aspectFit" style="height: 60px" />
+               <view class="center_h">TimeFocus</view>
+               <view class="page__desc">*更新日志*</view>
+               <view class="weui-article__p">
+                    Version 1.0.0 - 2024/04
+                    定制开源版本发布</view>
+               <view class="weui-article__p">
+                    - 移除所有第三方服务密钥和个人数据</view>
+               <view class="weui-article__p">
+                    - 更新项目名称和品牌文案</view>
+               <view class="weui-article__p">
+                    - 调整配色方案和UI优化</view>
+               <view class="weui-article__p">
+                    - 添加代码注释，提升可维护性</view>
+               <view class="weui-article__p">
+                    - 确保代码安全，适合开源分享</view>
+          </view>
+     </view>
+</view>

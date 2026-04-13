@@ -1,0 +1,14 @@
+{
+  "name": "timefocus-miniprogram",
+  "version": "1.0.0",
+  "description": "TimeFocus专注时钟 - 基于微信小程序的时间管理工具",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "weui-miniprogram": "^1.0.7"
+  }
+}
